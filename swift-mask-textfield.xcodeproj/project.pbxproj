@@ -195,10 +195,9 @@
 			};
 			buildConfigurationList = 3338E8681D809CC100767E4B /* Build configuration list for PBXProject "swift-mask-textfield" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
 			);
 			mainGroup = 3338E8641D809CC100767E4B;
